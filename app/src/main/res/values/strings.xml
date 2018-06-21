@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="add">+</string>
+    <string name="digitar">Digite o nome do Cartão!</string>
+    <string name="dialog_complete">Complete para criar o Cartão</string>
+    <string name="ok">confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="adc">Adicionar</string>
+    <string name="praticar">Praticar</string>
+    <string name="digite">digite</string>
+    <string name="traduçao">traduçao</string>
+    <string name="dialog_complete2">registre suas palavras</string>
+    <string name="orig_pra_trad">original pra tradução</string>
+    <string name="trad_para_ori">tradução para original</string>
+    <string name="misto">misto</string>
+
+</resources>
